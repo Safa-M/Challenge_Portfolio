@@ -1,0 +1,85 @@
+#footer {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  text-align: justify;
+}
+.hello-title {
+  text-decoration-line: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: rgb(255, 81, 0);
+}
+.collaborate {
+  font-size: 40px;
+}
+.second-footer {
+  margin-left: 20%;
+}
+.mail1 {
+  text-decoration: none;
+  color: #929393;
+  font-size: 30px;
+  line-height: 200%;
+}
+.mail1:hover {
+  color: rgb(255, 81, 0);
+}
+.phone {
+  text-decoration: none;
+  color: #929393;
+  font-size: 30px;
+  line-height: 200%;
+}
+.the-line {
+  color: #7a7a7a;
+  width: 100%;
+  margin: 100px 0px 10px 0px;
+}
+.foot-footer {
+  display: flex;
+}
+.copyright {
+  text-align: left;
+  margin-top: 12px;
+  margin-left: 10%;
+  color: #7a7a7a;
+}
+.designers {
+  color: #ffffff;
+}
+.icons {
+  text-align: right;
+  display: flex;
+  margin-left: 40%;
+}
+.icons-f a {
+  text-decoration: none;
+  color: #ffffff;
+  align-items: right;
+  margin: 0 10px;
+  font-size: 30px;
+}
+.icons-i a {
+  text-decoration: none;
+  color: #ffffff;
+  align-items: center;
+  margin: 0 10px;
+  font-size: 30px;
+}
+.icons-l a {
+  text-decoration: none;
+  color: #ffffff;
+  align-items: center;
+  margin: 0 10px;
+  font-size: 30px;
+}
+.icons-g a {
+  text-decoration: none;
+  align-items: center;
+  margin: 0 10px;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+.icons :hover {
+  color: rgb(255, 81, 0);
+}
